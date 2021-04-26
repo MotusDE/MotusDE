@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MotusDE
+- 👀 I’m interested in Powerlifting, Gaming and cars a little. 
+- 🌱 I'm currently learning c++ since we also need it in school.
